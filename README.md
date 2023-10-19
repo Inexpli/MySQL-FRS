@@ -1,6 +1,4 @@
-MySQL Fast Repair Script - Release 1.0
-
-# MySQL Database Maintenance Tool
+# MySQL Fast Repair Script
 
 ## Overview
 
@@ -54,4 +52,4 @@ Special thanks to the Python community and contributors who have helped develop 
 ## Download
 
 You can download the latest release of the MySQL Database Maintenance Tool from the following link:
-[MySQL Database Maintenance Tool v1.0](https://github.com/Inexpli/MySQL-FRS/releases/tag/v1.0)
+[MySQL Fast Repair Script v1.0](https://github.com/Inexpli/MySQL-FRS/releases/tag/v1.0)
