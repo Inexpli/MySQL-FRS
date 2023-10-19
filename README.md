@@ -50,3 +50,8 @@ Special thanks to the Python community and contributors who have helped develop 
 
 ---
 **Note:** This tool is provided as-is, and the user should exercise caution when using it to manipulate MySQL databases. It is advisable to make a complete backup of your data before running any maintenance tasks.
+
+## Download
+
+You can download the latest release of the MySQL Database Maintenance Tool from the following link:
+[MySQL Database Maintenance Tool v1.0](https://github.com/Inexpli/MySQL-FRS/releases/tag/v1.0)
